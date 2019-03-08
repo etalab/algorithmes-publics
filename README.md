@@ -1,11 +1,11 @@
-# Les algorithmes publics
+# Les missions d'Etalab sur les algorithmes publics
 
 La mission Etalab accompagne les administrations dans la mise en oeuvre du principe de transparence des algorithmes. 
 
 Ce dépôt contient plusieurs ressources utiles: 
 - le [guide des algorithmes publics](guide.md) à l'usage des administrations, 
-- la [liste](liste.md) des algorithmes actuellement publiés, 
-- la présentation du [programme de travail 2018-2019] et des partenaires mobilisés.
+- la [liste des algorithmes](liste.md) actuellement publiés, 
+- la présentation du [programme de travail 2018-2019](programme-de-travail.md) et des partenaires mobilisés.
 
 # Licence
 
