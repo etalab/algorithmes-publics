@@ -58,6 +58,7 @@ Par exemple, les concepteurs d’APB ont dû interpréter de manière univoque e
 
 - Le programme EIG - entrepreneurs d'intérêt général (Etalab / Dinsic)
 - Les lauréats de l'appel à manifestation d'intérêt "Intelligence artificielle" (Etalab/Dinsic)
+- Loup Cellard, doctorant à l'Université de Warwick (UK)
 - La Fondation Internet nouvelle génération, programme "NosSystèmes" (Fing)
 - La Chaire Innovation publique (ENA & ENSCI)
 - L'Ecole nationale d'administration (ENA)
