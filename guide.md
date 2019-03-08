@@ -126,4 +126,4 @@ Nous vous proposons un outil sous la forme d'un quizz pour tester votre connaiss
 
 🧐 Saurez-vous identifier ceux qui, parmi les 8, sont aujourd'hui concernés par les obligations de transparence des algorithmes ?
 
-![Quizz algorithmes](images/guide-algo/Algo-quizz.png)
+![Quizz algorithmes](images/Algo-quizz.png)
