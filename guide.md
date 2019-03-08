@@ -6,7 +6,7 @@ Ce guide est composé de trois parties qui peuvent se lire de manière indépend
 - La seconde partie détaille les **enjeux en termes d'éthique et de responsabilité**, 
 - La troisième partie présente le **cadre juridique applicable** suite à l'adoption de la loi pour une République numérique.
 
-📎 Etalab propose par ailleurs d'autres ressources en lien avec ce sujet: la [liste des algorithmes publics publiés](https://github.com/etalab/etalab/blob/master/algorithmes-publics.org) par les administrations  ainsi qu'un [guide sur l'ouverture des codes sources](https://github.com/etalab/ouverture-des-codes-sources-publics). 
+📎 Etalab propose par ailleurs d'autres ressources en lien avec ce sujet: la [liste des algorithmes publics publiés](https://github.com/etalab/algorithmes-publics/blob/master/liste.org) par les administrations  ainsi qu'un [guide sur l'ouverture des codes sources](https://github.com/etalab/ouverture-des-codes-sources-publics). 
 
 ## A qui est-il destiné ?
 
