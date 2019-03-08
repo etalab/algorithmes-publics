@@ -1,8 +1,11 @@
-# Guide sur les algorithmes publics
+# Les algorithmes publics
 
-Ce dépôt propose un [guide](guide.md) sur les algorithmes publics à
-l'usage des administrations et une [liste](liste.md) des algorithmes
-actuellement publiés.
+La mission Etalab accompagne les administrations dans la mise en oeuvre du principe de transparence des algorithmes. 
+
+Ce dépôt contient plusieurs ressources utiles: 
+- le [guide des algorithmes publics](guide.md) à l'usage des administrations, 
+- la [liste](liste.md) des algorithmes actuellement publiés, 
+- la présentation du [programme de travail 2018-2019] et des partenaires mobilisés.
 
 # Licence
 
