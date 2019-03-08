@@ -19,7 +19,7 @@ Vous pouvez contribuer à améliorer ce guide en proposant une modification dans
 
 # 1- A quoi servent les algorithmes publics ?
 
-Commencons tout d'abord par une définition: **qu'est qu'un algorithme** ? 
+Commencons tout d'abord par une définition: **qu'est-ce qu'un algorithme** ? 
 > Selon la CNIL, un algorithme est une "*suite finie et non ambigüe d’étapes ou d’instructions permettant d’obtenir un résultat à partir d’éléments fournis en entrée"*.
 
 📍 Retenons que, selon cette définition, un algorithme peut donc exister **indépendamment d'un traitement informatique**. Une grille de notation "papier" utilisée par une administration peut donc être considérée comme un algorithme.
