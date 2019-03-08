@@ -6,5 +6,4 @@ actuellement publiés.
 
 # Licence
 
-Ce document est produit par Simon Chignard pour la Etalab (DINSIC) et
-il est publié sous licence Ouverte 2.0.
+Ce document est produit par Simon Chignard pour la mission [Etalab](www.etalab.gouv.fr) (DINSIC - Direction interministérielle du numérique) etil est publié sous licence Ouverte 2.0.
