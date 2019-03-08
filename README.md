@@ -1,6 +1,7 @@
-# algorithmes-publics
+# Guide sur les algorithmes publics
 
-Guide sur les algorithmes publics à l'usage des administrations
+Ce dépôt propose un [guide](guide.md) sur les algorithmes publics à
+l'usage des administrations.
 
 # Licence
 
