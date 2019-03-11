@@ -57,9 +57,9 @@ Par exemple, les concepteurs d’APB ont dû interpréter de manière univoque e
 
 ## Partenaires mobilisés
 
-- Le programme EIG - entrepreneurs d'intérêt général (Etalab / Dinsic)
-- Les lauréats de l'appel à manifestation d'intérêt "Intelligence artificielle" (Etalab/Dinsic)
-- Loup Cellard, doctorant à l'Université de Warwick (UK), notamment pour l'écriture du [guide des algorithmes publics](guide.md),
-- La Fondation Internet nouvelle génération, programme "[NosSystèmes](http://fing.org/?NosSystemes)" (Fing)
-- La Chaire Innovation publique (ENA & ENSCI Les Ateliers)
-- L'Ecole nationale d'administration (ENA)
+- Le **programme EIG** - entrepreneurs d'intérêt général saisons 2 et 3 (Etalab / Dinsic)
+- Les lauréats du 1er appel à manifestation d'intérêt "**Intelligence artificielle**" (Etalab/Dinsic)
+- **Loup Cellard**, doctorant à l'Université de Warwick (UK), notamment pour l'écriture du [guide des algorithmes publics](guide.md),
+- La **Fondation Internet nouvelle génération**, programme "[NosSystèmes](http://fing.org/?NosSystemes)" (Fing)
+- La **Chaire Innovation publique** (ENA & ENSCI Les Ateliers)
+- L'**Ecole nationale d'administration** (ENA)
