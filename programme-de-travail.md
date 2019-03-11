@@ -1,4 +1,4 @@
-# Les chantiers 2018-2019 sur les algorithmes publics
+# Les chantiers d'Etalab sur les algorithmes publics
 
 ## Elements de cadrage: les attentes des administrations
 
