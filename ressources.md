@@ -16,9 +16,9 @@ Nous vous proposons une sélection de ressources (études, articles, outils, év
 
 ## Outils et méthodologies
 
-"[Guide des algorithmes publics à l'usage des administrations](guide.md)", Etalab, mars 2019
-
 "[5 pistes d'innovation du programme NosSystèmes](http://fing.org/?Nos-Systemes-les-pistes-d), Fing, juin 2017
+
+"[Guide des algorithmes publics à l'usage des administrations](guide.md)", Etalab, mars 2019
 
 ## Evenements
 
