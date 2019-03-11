@@ -2,7 +2,7 @@
 
 ## Elements de cadrage: les attentes des administrations
 
-- La première attente des administrations concerne la mise en conformité des traitements algorithmes existants avec les nouvelles obligations issues de la loi pour une République numérique et du Réglement européen sur la protection des données (principe de transparence et de redevabilité). 
+- La première attente des administrations concerne la mise en conformité des traitements algorithmes existants avec les [nouvelles obligations](guide.md) issues de la loi pour une République numérique et du Réglement européen sur la protection des données (principe de transparence et de redevabilité). 
 - La seconde attente concerne la conception et l’utilisation de nouveaux systèmes algorithmiques, notamment ceux qui permettront la prise de décisions automatisées : règles de conception à prendre en compte pour rendre ces systèmes transparents et redevables dès leur conception ("by design"), méthodologies pour assurer la maîtrise continue du traitement, ... 
 - Enfin, le recours à des solutions développées par le secteur privé (développement ad hoc d’algorithmes, utilisation de solutions de type « AI as a service ») nécessite un appui dans l’évaluation de la solution, notamment au plan de sa solidité scientifique et technique mais aussi des conditions à fixer pour assurer la bonne mise en oeuvre de la législation existante.
 
@@ -39,7 +39,7 @@ Cela représente un défi majeur compte tenu de la technicité de certains trait
 
 En outre, les administrations doivent fournir des types d’informations différents, compte tenu du cadre juridique, y compris pour tenir compte des besoins variés des usagers en la matière :
 -	il nous faut être capable de communiquer la logique générale de fonctionnement sans toutefois occulter la diversité des situations et des cas que le traitement doit traiter, pour l’information générale ;
--	il nous faut être aussi capable de rendre compte du fonctionnement précis du traitement algorithmique dans un cas particulier et de communiquer à l’usager les données concernées
+-	il nous faut être aussi capable de rendre compte du fonctionnement précis du traitement algorithmique dans un cas particulier et de communiquer à l’usager les données concernées.
 
 ### 3. Le rapport entre le code informatique et la loi ("code is law")
 
@@ -48,17 +48,18 @@ En outre, les administrations doivent fournir des types d’informations différ
 
 Le troisième axe de travail est spécifique à la question des algorithmes publics : la relation entre le code informatique et la loi.
 
-Dans ce contexte, le code informatique est censé traduire de manière opérationnelle et lisible par une machine des règles juridiques (lois, décrets, circulaires) écrites en langage naturel (et juridique).
+Dans ce contexte, le code informatique est censé traduire de manière opérationnelle et lisible par une machine des règles juridiques (lois, décrets, circulaires) écrites en langage naturel (mais juridique).
 
-L'expérience d'Etalab sur le cas Admission Post-Bac (APB), mais aussi celle du calculateur de l’impôt sur le revenu, nous laisse entrevoir que la relation entre le code et la loi (pour emprunter la terminologie du « Code is law » de Lawrence Lessig) sont beaucoup plus riches et diverses qu’une simple traduction univoque loi > code. 
+L'expérience d'Etalab sur le cas [Admission Post-Bac (APB)](https://www.ladocumentationfrancaise.fr/var/storage/rapports-publics/174000345.pdf), mais aussi celle du [calculateur de l’impôt sur le revenu](https://www.etalab.gouv.fr/codeimpot-un-hackathon-autour-de-louverture-du-code-source-du-calculateur-impots), nous laisse entrevoir que la relation entre le code et la loi (pour emprunter la terminologie du « [Code is law](https://framablog.org/2010/05/22/code-is-law-lessig/) » de Lawrence Lessig) sont beaucoup plus riches et diverses qu’une simple traduction univoque loi > code. 
 Parfois, le code informatique est contraint de résoudre des imprécisions des textes juridiques et « grave dans le sicilium » des pratiques administratives non écrites qui ne sont donc pas redevables. 
+
 Par exemple, les concepteurs d’APB ont dû interpréter de manière univoque et précise la notion floue de « domicile du candidat par rapport à la formation demandée » (distance mesurée en kilomètres, en temps de parcours ou d’un rattachement à un département, à une région, à une académie ?). 
 
 ## Partenaires mobilisés
 
 - Le programme EIG - entrepreneurs d'intérêt général (Etalab / Dinsic)
 - Les lauréats de l'appel à manifestation d'intérêt "Intelligence artificielle" (Etalab/Dinsic)
-- Loup Cellard, doctorant à l'Université de Warwick (UK)
-- La Fondation Internet nouvelle génération, programme "NosSystèmes" (Fing)
-- La Chaire Innovation publique (ENA & ENSCI)
+- Loup Cellard, doctorant à l'Université de Warwick (UK), notamment pour l'écriture du [guide des algorithmes publics](guide.md),
+- La Fondation Internet nouvelle génération, programme "[NosSystèmes](http://fing.org/?NosSystemes)" (Fing)
+- La Chaire Innovation publique (ENA & ENSCI Les Ateliers)
 - L'Ecole nationale d'administration (ENA)
