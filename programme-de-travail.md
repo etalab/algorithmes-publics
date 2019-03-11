@@ -3,7 +3,7 @@
 ## Elements de cadrage: les attentes des administrations
 
 - La première attente des administrations concerne la mise en conformité des traitements algorithmes existants avec les [nouvelles obligations](guide.md) issues de la loi pour une République numérique et du Réglement européen sur la protection des données (principe de transparence et de redevabilité). 
-- La seconde attente concerne la conception et l’utilisation de nouveaux systèmes algorithmiques, notamment ceux qui permettront la prise de décisions automatisées : règles de conception à prendre en compte pour rendre ces systèmes transparents et redevables dès leur conception ("by design"), méthodologies pour assurer la maîtrise continue du traitement, ... 
+- La seconde attente concerne la conception et l’utilisation de nouveaux systèmes algorithmiques, notamment ceux qui permettront la [prise de décisions automatisées](https://github.com/etalab/algorithmes-publics/blob/master/guide.md#décision-automatisée-ou-aide-à-la-décision-) : règles de conception à prendre en compte pour rendre ces systèmes transparents et redevables dès leur conception ("by design"), méthodologies pour assurer la maîtrise continue du traitement, ... 
 - Enfin, le recours à des solutions développées par le secteur privé (développement ad hoc d’algorithmes, utilisation de solutions de type « AI as a service ») nécessite un appui dans l’évaluation de la solution, notamment au plan de sa solidité scientifique et technique mais aussi des conditions à fixer pour assurer la bonne mise en oeuvre de la législation existante.
 
 ## Les engagements pris au titre du plan d'action national de la France (PGO)
