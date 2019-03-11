@@ -2,10 +2,11 @@
 
 La mission Etalab accompagne les administrations dans la mise en oeuvre du principe de transparence des algorithmes. 
 
-Ce dépôt contient plusieurs ressources utiles: 
+Ce dépôt contient: 
 - le [guide des algorithmes publics](guide.md) à l'usage des administrations, 
 - la [liste des algorithmes](liste.md) actuellement publiés, 
-- la présentation du [programme de travail 2018-2019](programme-de-travail.md) et des partenaires mobilisés.
+- la présentation du [programme de travail 2018-2019](programme-de-travail.md) et des partenaires mobilisés,
+- une liste de [ressources](ressources.md) utiles (rapports, articles, outils, évènements, ...).
 
 # Licence
 
