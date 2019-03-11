@@ -10,8 +10,8 @@
 
 L’engagement « Renforcer la transparence des algorithmes et des codes sources publics » du plan d’action national 2018-2020 de la France définit un ensemble d’actions en lien avec les algorithmes publics: 
 
--	élaborer un guide d’ouverture des codes sources publics,
--	formuler des recommandations sur l’application du principe de transparence des algorithmes introduits par la loi pour une République numérique,
+-	élaborer un [guide d’ouverture des codes sources](https://github.com/etalab/ouverture-des-codes-sources-publics) publics,
+-	formuler des [recommandations](guide.md) sur l’application du principe de transparence des algorithmes introduits par la loi pour une République numérique,
 -	identifier les enjeux techniques, juridiques et sociétaux par le biais de 5 monographies d’algorithmes publics.
 
 Les engagements pris dans le cadre du Partenariat pour un Gouvernement ouvert (PGO) font l'objet d'une évaluation indépendante.
