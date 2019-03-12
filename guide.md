@@ -35,9 +35,7 @@ Nous avons recensé plusieurs types d'**usages des algorithmes** dans les admini
 
 ## Décision automatisée ou aide à la décision ?
 
-Certains algorithmes peuvent être utilisés pour prendre des décisions envers des individus, personnes physiques (agents, usagers du service public, ...) ou morales (entreprises, autres acteurs publics, ...).
-
-On les distingue selon le **degré d'intervention humaine** dans la prise de décision: 
+Certains algorithmes peuvent être utilisés pour prendre des décisions. On les distingue selon le **degré d'intervention humaine** dans cette prise de décision: 
 - Certains fonctionnent sans intervention humaine (par exemple le calcul de l'impôt des 37 millions de foyers fiscaux). On parle alors de **traitement automatisé**.
 
 - D'autres sont des outils d'**aide à la décision**: ils aident l'humain à prendre une décision, par exemple en classant des dossiers selon des critères de priorité pour qu'ils soient ensuite étudiés par une commission qui prendra formellement la décision.
