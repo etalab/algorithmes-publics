@@ -105,7 +105,7 @@ Le code des relations entre le public et l'administration (CRPA) précise le pé
 ## Quelles sont ces obligations en matière de transparence ?
 
 📝Le Code des relations entre le public et l'administration définit 3 obligations: 
-1. fournir une **information générale** ([article L.312-1-1-3](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000033205516&dateTexte=&categorieLien=id)) 
+1. fournir une **information générale** ([article L.312-1-3](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000033205516&dateTexte=&categorieLien=id)) 
 2. faire figurer une **mention explicite** ([article L.311-3-1](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000033205535&dateTexte=&categorieLien=cid))
 3. **fournir une information individuelle à la demande** de l'intéressé ([article L.311-3-1-2](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000034195881)).
 
