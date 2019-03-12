@@ -20,7 +20,7 @@ Ce document est un outil évolutif et ouvert. Vous pouvez contribuer à l'améli
 # 1- A quoi servent les algorithmes publics ?
 
 Commencons tout d'abord par une définition: **qu'est-ce qu'un algorithme** ? 
-> Selon la CNIL, un algorithme est une "*suite finie et non ambigüe d’étapes ou d’instructions permettant d’obtenir un résultat à partir d’éléments fournis en entrée"*.
+> Selon le Larousse, un algorithme est un "*ensemble de règles opératoires dont l'application permet de résoudre un problème énoncé au moyen d'un nombre fini d'opérations. Un algorithme peut être traduit, grâce à un langage de programmation, en un programme exécutable par un ordinateur*.
 
 📍 Retenons que, selon cette définition, un algorithme peut donc exister **indépendamment d'un traitement informatique**. Une grille de notation "papier" utilisée par une administration peut donc être considérée comme un algorithme.
 
@@ -96,7 +96,7 @@ Le code des relations entre le public et l'administration (CRPA) précise le pé
 
 📝 **Si**: 
 - vous êtes **une administration d’Etat, une collectivité, un organisme de droit public ou de droit privé intervenants dans le cadre d’une mission de service public** [(article L.300-2)](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031367689&dateTexte=&categorieLien=cid) ,
-- vous utilisez un **traitement algorithmique** (cf. la [définition](https://github.com/etalab/algorithmes-publics/blob/master/guide.md#1--a-quoi-servent-les-algorithmes-publics-) proposée par la CNIL),
+- vous utilisez un **traitement algorithmique** (cf. la [définition](https://github.com/etalab/algorithmes-publics/blob/master/guide.md#1--a-quoi-servent-les-algorithmes-publics-) ci-dessus),
 - à l’aide de ce traitement, vous prenez des **décisions administratives individuelles envers des personnes physiques ou morales, de droit public ou privé nommément désignées**,
 - et que ce traitement n’est **pas couvert par l’un des secrets définis par la loi** [(article L.311-5)](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031367708), et notamment: délibérations du Gouvernement, défense nationale, conduite de la politique extérieure, sûreté de l’Etat, sécurité publique, sécurité des personnes ou des systèmes d’information, recherche et prévention d’infractions, etc. 
 
