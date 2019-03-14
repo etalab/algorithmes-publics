@@ -1,3 +1,5 @@
+![](images/logo-etalab-320x200.png)
+
 # Guide des algorithmes publics
 
 La mission [Etalab](https://www.etalab.gouv.fr) accompagne les administrations dans l'application du nouveau cadre juridique sur les algorithmes publics.
