@@ -76,7 +76,7 @@ Il faut noter que plusieurs manières de rendre des comptes (se signaler, décri
 La prise de décision (automatisée ou non) constitue l'un des principaux usages des algorithmes dans le secteur public - par exemple pour déterminer le droit à une aide sociale ou encore gérer la mobilité des enseignants. 
 Nous nous intéressons ici au **principe de justice**: quelles sont les conditions requises pour qu'un individu concerné par la décision la juge "juste" ? 
 
-Nous avons identifié **quatre critères** à respecter pour qu'une décision prise à l'aide d'un algorithme soit considéré comme juste: 
+La [littérature scientifique](https://dl.acm.org/citation.cfm?id=3173951) identifie **quatre critères** à respecter pour qu'une décision prise à l'aide d'un algorithme soit considérée comme juste: 
 - la **transparence**: il faut que la procédure soit décrite,
 - l'**intelligibilité**: il faut que la procédure soit compréhensible par les intéressés,
 - la **loyauté**: il faut que la procédure décrite soit effectivement utilisée de manière complète et fidèle,
@@ -93,7 +93,7 @@ La loi pour une République numérique, et plus récemment le Réglement sur la 
 Le code des relations entre le public et l'administration (CRPA) précise le périmètre des administrations et des traitements concernés.
 
 📝 **Si**: 
-- vous êtes **une administration d’Etat, une collectivité, un organisme de droit public ou de droit privé intervenants dans le cadre d’une mission de service public** [(article L.300-2)](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031367689&dateTexte=&categorieLien=cid) ,
+- vous êtes **une administration d’Etat, une collectivité, un organisme de droit public ou de droit privé intervenant dans le cadre d’une mission de service public** [(article L.300-2)](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031367689&dateTexte=&categorieLien=cid) ,
 - vous utilisez un **traitement algorithmique** (cf. la [définition](https://github.com/etalab/algorithmes-publics/blob/master/guide.md#1--a-quoi-servent-les-algorithmes-publics-) ci-dessus),
 - à l’aide de ce traitement, vous prenez des **décisions administratives individuelles envers des personnes physiques ou morales, de droit public ou privé nommément désignées**,
 - et que ce traitement n’est **pas couvert par l’un des secrets définis par la loi** [(article L.311-5)](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031367708), et notamment: délibérations du Gouvernement, défense nationale, conduite de la politique extérieure, sûreté de l’Etat, sécurité publique, sécurité des personnes ou des systèmes d’information, recherche et prévention d’infractions, etc. 
