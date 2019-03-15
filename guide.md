@@ -124,6 +124,9 @@ On notera que ces obligations s'appliquent à l'ensemble des traitements qui fon
 
 Enfin, rappelons que l'article 39 de la loi Informatique et Libertés, qui s'applique **tant au secteur public que privé**, précise que "toute personne physique justifiant de son identité a le droit d'interroger le responsable d'un traitement à caractère personnel en vue d'obtenir (...) 5° les informations permettant de **connaître et de contester** la logique qui sous-tend le traitement automatisé en cas de décision prise sur le fondement de celui-ci et produisant des effets juridiques à l'égard de l'interessé".
 
+![](images/Algo-obligations-1.png)
+![](images/Algo-obligations-2.png)
+
 ## Un outil pour tester vos connaissances
 
 Nous vous proposons un outil sous la forme d'un quizz pour tester votre connaissance du cadre légal applicable aux algorithmes publics. Nous avons identifié **8 exemples réels d'utilisation d'algorithmes**. 
