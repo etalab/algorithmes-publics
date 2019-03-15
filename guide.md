@@ -131,3 +131,11 @@ Nous vous proposons un outil sous la forme d'un quizz pour tester votre connaiss
 🧐 Saurez-vous identifier ceux qui, parmi les 8, sont aujourd'hui concernés par les obligations de transparence des algorithmes ?
 
 ![Quizz algorithmes](images/Algo-quizz.png)
+
+## Les prochaines étapes
+
+La **première action** à mener, en tant qu'administration, est de **recenser les algorithmes** potentiellement concernés par l'obligation de transparence et de redevabilité.
+
+La mission Etalab est à votre disposition pour vous accompagner dans la mise en oeuvre de ce recensement et plus globalement dans la mise en oeuvre de ces nouvelles obligations.
+
+D'autres contenus seront **prochainement publiés** pour compléter ce guide, notamment des fiches pratiques sur une méthodologie d'identification des algorithmes ainsi que des exemples de mention et d'information détaillée.
