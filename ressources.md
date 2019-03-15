@@ -8,6 +8,8 @@ Nous vous proposons une sélection de ressources (études, articles, outils, év
 
 "[Les algorithmes au service de l'action publique, le cas du portail Admission Post-Bac](https://www.senat.fr/notice-rapport/2017/r17-305-notice.html)", compte-rendu de l'audition publique de l'Office parlementaire d'évaluation des choix scientifiques et technologiques", Sénat, février 2018 (OPECST)
 
+"[Rapport au Parlement du Comité d'éthique et scentifique de Parcoursup](http://cache.media.enseignementsup-recherche.gouv.fr/file/Parcoursup/36/3/Rapport_du_CESP_1061363.pdf), janvier 2019
+
 ## Articles
 
 "[Admission Post-Bac, cas d'école des algorithmes publics ?](http://www.internetactu.net/2017/07/28/admission-post-bac-cas-decole-des-algorithmes-publics/)", Hubert Guillaud, Internet Actu, 28 juillet 2017
