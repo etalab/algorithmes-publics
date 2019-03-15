@@ -12,7 +12,7 @@ Ce guide, [ouvert aux contributions](https://github.com/etalab/algorithmes-publi
 
 ## A qui est-il destiné ?
 
-Ce guide est destiné à l'ensemble des administrations et organisations chargées d'une mission de service public qui concoivent, développent et opèrent des traitements algorithmiques.
+Ce guide est destiné à l'ensemble des administrations et organisations chargées d'une mission de service public qui conçoivent, développent et opèrent des traitements algorithmiques.
 
 ## Comment contribuer ?
 
@@ -22,7 +22,7 @@ Ce document est un outil évolutif et ouvert. Vous pouvez contribuer à l'améli
 # 1- A quoi servent les algorithmes publics ?
 
 Commencons tout d'abord par une définition: **qu'est-ce qu'un algorithme** ? 
-> Selon le Larousse, un algorithme est un "*ensemble de règles opératoires dont l'application permet de résoudre un problème énoncé au moyen d'un nombre fini d'opérations. Un algorithme peut être traduit, grâce à un langage de programmation, en un programme exécutable par un ordinateur*.
+> Selon le Larousse, un algorithme est un "*ensemble de règles opératoires dont l'application permet de résoudre un problème énoncé au moyen d'un nombre fini d'opérations. Un algorithme peut être traduit, grâce à un langage de programmation, en un programme exécutable par un ordinateur*".
 
 📍 Retenons que, selon cette définition, un algorithme peut donc exister **indépendamment d'un traitement informatique**. Une grille de notation "papier" utilisée par une administration peut donc être considérée comme un algorithme.
 
@@ -59,7 +59,7 @@ Par rapport aux algorithmes mis en oeuvre par le secteur privé, les algorithmes
 2. Ils servent souvent à **exécuter le droit**, à (faire) appliquer la loi,
 3. Ils sont bien souvent **incontournables**, c'est à dire qu'il n'existe pas d'alternatives pour les usagers.
 
-📍En ce sens, les algorithmes publics sont des formes de l'action publique et sont à ce titre soumis à la même forme d'exigence de redevabilité. Les administrations qui concoivent et utilisent des algorithmes publics doivent donc "rendre des comptes" de leur utilisation auprès des individus concernés, mais aussi de la société dans son ensemble.
+📍En ce sens, les algorithmes publics sont des formes de l'action publique et sont à ce titre soumis à la même forme d'exigence de redevabilité. Les administrations qui conçoivent et utilisent des algorithmes publics doivent donc "rendre des comptes" de leur utilisation auprès des individus concernés, mais aussi de la société dans son ensemble.
 
 ## Comment les administrations peuvent-elles "rendre des comptes" sur l'usage des algorithmes publics ?
 
@@ -71,7 +71,7 @@ Ce ne sont pas tant les algorithmes eux-mêmes que les administrations qui les m
 - **rendre accessible**, en publiant le code source et la documentation associée,
 - **permettre la contestation**, en indiquant les voies de recours possibles.
 
-Il faut noter que plusieurs manières de rendre des comptes (se signaler, décrire, justifier, expliquer, ...) correspondent à des **obligations légales** introduites par la loi pour une République numérique ou plus récemment le Réglement général sur la protection des données (RGPD). La troisième partie de ce document présente le cadre juridique applicable.
+Il faut noter que plusieurs manières de rendre des comptes (se signaler, décrire, justifier, expliquer, ...) correspondent à des **obligations légales** introduites par la loi pour une République numérique ou plus récemment le Règlement général sur la protection des données (RGPD). La troisième partie de ce document présente le cadre juridique applicable.
 
 ## Comment rendre des décisions "justes" à l'aide des algorithmes ? ##
 
