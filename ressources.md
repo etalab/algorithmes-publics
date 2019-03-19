@@ -14,6 +14,8 @@ Nous vous proposons une sélection de ressources (études, articles, outils, év
 
 🇪🇺"[Draft Ethics guidelines for trustworthy AI](https://ec.europa.eu/digital-single-market/en/news/draft-ethics-guidelines-trustworthy-ai)", European Commission’s High-Level Expert Group on Artificial Intelligence, mars 2019
 
+🇺🇸"[Algorithmic accountability: a primer](https://datasociety.net/wp-content/uploads/2018/04/Data_Society_Algorithmic_Accountability_Primer_FINAL-4.pdf), Data & Society, avril 2018
+
 ## Articles
 
 🇫🇷"[Admission Post-Bac, cas d'école des algorithmes publics ?](http://www.internetactu.net/2017/07/28/admission-post-bac-cas-decole-des-algorithmes-publics/)", Hubert Guillaud, Internet Actu, 28 juillet 2017
@@ -23,8 +25,6 @@ Nous vous proposons une sélection de ressources (études, articles, outils, év
 🇬🇧"[10 principles for public sector use of algorithmic decision making](https://www.nesta.org.uk/blog/10-principles-for-public-sector-use-of-algorithmic-decision-making/)", Eddie Copeland, Nesta, février 2018 
 
 🇬🇧"[20 questions for public sector use of algorithmic decision making](https://www.nesta.org.uk/blog/20-questions-public-sector-orgs-algorithms/)", Eddie Copeland, Nesta, juin 2018
-
-🇺🇸"[Algorithmic accountability: a primer](https://datasociety.net/wp-content/uploads/2018/04/Data_Society_Algorithmic_Accountability_Primer_FINAL-4.pdf), Data & Society, avril 2018
 
 ## Outils et méthodologies
 
