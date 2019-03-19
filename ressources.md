@@ -14,7 +14,7 @@ Nous vous proposons une sélection de ressources (études, articles, outils, év
 
 🇪🇺"[Draft Ethics guidelines for trustworthy AI](https://ec.europa.eu/digital-single-market/en/news/draft-ethics-guidelines-trustworthy-ai)", European Commission’s High-Level Expert Group on Artificial Intelligence, mars 2019
 
-🇺🇸"[Algorithmic accountability: a primer](https://datasociety.net/wp-content/uploads/2018/04/Data_Society_Algorithmic_Accountability_Primer_FINAL-4.pdf), Data & Society, avril 2018
+🇺🇸"[Algorithmic accountability: a primer](https://datasociety.net/wp-content/uploads/2018/04/Data_Society_Algorithmic_Accountability_Primer_FINAL-4.pdf)", Data & Society, avril 2018
 
 ## Articles
 
@@ -24,13 +24,15 @@ Nous vous proposons une sélection de ressources (études, articles, outils, év
 
 🇬🇧"[10 principles for public sector use of algorithmic decision making](https://www.nesta.org.uk/blog/10-principles-for-public-sector-use-of-algorithmic-decision-making/)", Eddie Copeland, Nesta, février 2018 
 
-🇬🇧"[20 questions for public sector use of algorithmic decision making](https://www.nesta.org.uk/blog/20-questions-public-sector-orgs-algorithms/)", Eddie Copeland, Nesta, juin 2018
-
 ## Outils et méthodologies
 
-🇫🇷"[5 pistes d'innovation du programme NosSystèmes](http://fing.org/?Nos-Systemes-les-pistes-d), Fing, juin 2017
+🇫🇷"[5 pistes d'innovation du programme NosSystèmes](http://fing.org/?Nos-Systemes-les-pistes-d)", Fing, juin 2017
 
 🇫🇷"[Guide des algorithmes publics à l'usage des administrations](guide.md)", Etalab, mars 2019
+
+🇬🇧"[20 questions for public sector use of algorithmic decision making](https://www.nesta.org.uk/blog/20-questions-public-sector-orgs-algorithms/)", Eddie Copeland, Nesta, juin 2018
+
+🇺🇸"[Ethics & algorithms toolkit](http://ethicstoolkit.ai)", John Hopkins University, Harvard University, Data for DC, City of San Francisco, 2018-2019
 
 ## Evenements
 
