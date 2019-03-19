@@ -22,6 +22,8 @@ Nous vous proposons une sélection de ressources (études, articles, outils, év
 
 🇫🇷"[Vers des algorithmes publics exemplaires](http://www.internetactu.net/2018/12/05/vers-des-algorithmes-exemplaires/)", Hubert Guillaud, Internet Actu, décembre 2018
 
+🇫🇷"[Concrètement, comment rendre les algorithmes responsables et équitables ?](http://www.internetactu.net/2018/07/19/concretement-comment-rendre-les-algorithmes-responsables-et-equitables/)", Hubert Guillaud, Internet Actu, juillet 2018
+
 🇬🇧"[10 principles for public sector use of algorithmic decision making](https://www.nesta.org.uk/blog/10-principles-for-public-sector-use-of-algorithmic-decision-making/)", Eddie Copeland, Nesta, février 2018 
 
 ## Outils et méthodologies
