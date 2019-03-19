@@ -14,7 +14,10 @@ Nous vous proposons une sélection de ressources (études, articles, outils, év
 
 🇪🇺"[Draft Ethics guidelines for trustworthy AI](https://ec.europa.eu/digital-single-market/en/news/draft-ethics-guidelines-trustworthy-ai)", European Commission’s High-Level Expert Group on Artificial Intelligence, mars 2019
 
+🇪🇺"[algo:aware - State of the Art Report](https://www.algoaware.eu/state-of-the-art-report/)", Optimity Advisors for the European Commission, décembre 2018
+
 🇺🇸"[Algorithmic accountability: a primer](https://datasociety.net/wp-content/uploads/2018/04/Data_Society_Algorithmic_Accountability_Primer_FINAL-4.pdf)", Data & Society, avril 2018
+
 
 ## Articles
 
