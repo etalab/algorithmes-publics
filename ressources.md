@@ -2,7 +2,7 @@
 
 Nous vous proposons une sélection de ressources (études, articles, outils, évènements) liées au [programme de travail](programme-de-travail.md) d'Etalab sur les algorithmes publics.
 
-## Etudes et rapports officiels
+## Etudes et rapports
 
 "[Les conditions d'ouverture du système Admission Post-Bac](https://www.ladocumentationfrancaise.fr/var/storage/rapports-publics/174000345.pdf)", rapport au Secrétaire d'Etat en charge de l'enseignement supérieur et de la recherche", avril 2017 (Mission Etalab)
 
