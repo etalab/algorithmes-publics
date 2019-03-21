@@ -4,11 +4,13 @@ Nous vous proposons une sélection de ressources (études, articles, outils, év
 
 ## Etudes et rapports
 
-🇫🇷"[Les conditions d'ouverture du système Admission Post-Bac](https://www.ladocumentationfrancaise.fr/var/storage/rapports-publics/174000345.pdf)", rapport au Secrétaire d'Etat en charge de l'enseignement supérieur et de la recherche", avril 2017 (Mission Etalab)
+🇫🇷"[Les conditions d'ouverture du système Admission Post-Bac](https://www.ladocumentationfrancaise.fr/var/storage/rapports-publics/174000345.pdf)", rapport au Secrétaire d'Etat en charge de l'enseignement supérieur et de la recherche", mision Etalab, avril 2017
 
-🇫🇷"[Les algorithmes au service de l'action publique, le cas du portail Admission Post-Bac](https://www.senat.fr/notice-rapport/2017/r17-305-notice.html)", compte-rendu de l'audition publique de l'Office parlementaire d'évaluation des choix scientifiques et technologiques", Sénat, février 2018 (OPECST)
+🇫🇷"[Les algorithmes au service de l'action publique, le cas du portail Admission Post-Bac](https://www.senat.fr/notice-rapport/2017/r17-305-notice.html)", compte-rendu de l'audition publique de l'Office parlementaire d'évaluation des choix scientifiques et technologiques", Sénat, février 2018 
 
 🇫🇷"[Rapport au Parlement du Comité d'éthique et scentifique de Parcoursup](http://cache.media.enseignementsup-recherche.gouv.fr/file/Parcoursup/36/3/Rapport_du_CESP_1061363.pdf), janvier 2019
+
+🇫🇷"[Rapport sur les enjeux éthiques des algorithmes et de l’intelligence artificielle](https://www.cnil.fr/sites/default/files/atoms/files/cnil_rapport_garder_la_main_web.pdf)", Commission nationale Informatique et Libertés, décembre 2017
 
 🇺🇸"[Public scrutiny of automated decisions](http://www.omidyar.com/sites/default/files/file_archive/Public%20Scrutiny%20of%20Automated%20Decisions.pdf)", Upturn & Omidyar Network, 2018 
 
