@@ -16,6 +16,8 @@ Nous vous proposons une sélection de ressources (études, articles, outils, év
 
 🇪🇺"[algo:aware - State of the Art Report](https://www.algoaware.eu/state-of-the-art-report/)", Optimity Advisors for the European Commission, décembre 2018
 
+🇪🇺"[Automating societies: taking stock of automated decision-making in the EU](https://algorithmwatch.org/en/publication/automating-society-available-now/)", Algorithm Watch, janvier 2019
+
 🇺🇸"[Algorithmic accountability: a primer](https://datasociety.net/wp-content/uploads/2018/04/Data_Society_Algorithmic_Accountability_Primer_FINAL-4.pdf)", Data & Society, avril 2018
 
 
