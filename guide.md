@@ -4,24 +4,24 @@
 
 La mission [Etalab](https://www.etalab.gouv.fr) accompagne les administrations dans l'application du nouveau cadre juridique sur les algorithmes publics.
 Ce guide, [ouvert aux contributions](https://github.com/etalab/algorithmes-publics/blob/master/guide.md#comment-contribuer-) et publié dans le cadre du [programme de travail](programme-de-travail.md) d'Etalab, est composé de trois parties qui peuvent se lire de manière indépendante.
-- La première partie donne des **éléments de contexte**: qu'est-ce qu'un algorithme ? à quoi servent les algorithmes dans le secteur public ? 
+- La première partie donne des **éléments de contexte**: qu'est-ce qu'un algorithme ? à quoi servent les algorithmes dans le secteur public ? 
 - La seconde partie détaille les **enjeux en termes d'éthique et de responsabilité**, 
 - La troisième partie présente le **cadre juridique applicable** en matière de transparence des algorithmes notamment suite à l'adoption de la loi pour une République numérique.
 
 📎 Etalab propose par ailleurs d'autres ressources en lien avec ce sujet: la [liste des algorithmes publics publiés](https://github.com/etalab/algorithmes-publics/blob/master/liste.org) par les administrations  ainsi qu'un [guide sur l'ouverture des codes sources](https://github.com/etalab/ouverture-des-codes-sources-publics). 
 
-## A qui est-il destiné ?
+## A qui est-il destiné ?
 
 Ce guide est destiné à l'ensemble des administrations et organisations chargées d'une mission de service public qui conçoivent, développent et opèrent des traitements algorithmiques.
 
-## Comment contribuer ?
+## Comment contribuer ?
 
-Ce document est un outil évolutif et ouvert. Vous pouvez contribuer à l'améliorer en proposant une modification dans la [version éditable](guide.md) du guide (sur Github) ou en contactant directement Simon Chignard (Mission Etalab - Direction interministérielle du numérique): simon.chignard@data.gouv.fr
+Ce document est un outil évolutif et ouvert. Vous pouvez contribuer à l'améliorer en proposant une modification dans la [version éditable](guide.md) du guide (sur Github) ou en contactant directement Simon Chignard (Mission Etalab - Direction interministérielle du numérique): `simon.chignard@data.gouv.fr`
 
 
-# 1- A quoi servent les algorithmes publics ?
+# 1- A quoi servent les algorithmes publics ?
 
-Commencons tout d'abord par une définition: **qu'est-ce qu'un algorithme** ? 
+Commencons tout d'abord par une définition: **qu'est-ce qu'un algorithme** ? 
 > Selon le Larousse, un algorithme est un "*ensemble de règles opératoires dont l'application permet de résoudre un problème énoncé au moyen d'un nombre fini d'opérations. Un algorithme peut être traduit, grâce à un langage de programmation, en un programme exécutable par un ordinateur*".
 
 📍 Retenons que, selon cette définition, un algorithme peut donc exister **indépendamment d'un traitement informatique**. Une grille de notation "papier" utilisée par une administration peut donc être considérée comme un algorithme.
@@ -35,7 +35,7 @@ Nous avons recensé plusieurs types d'**usages des algorithmes** dans les admini
 | Prédire une situation ou un risque en analysant des données  | Prédire un risque de défaillance d'une entreprise (Signaux Faibles), cibler les contrôles de lutte contre la fraude fiscale, ...        |
 | Aider à la décision des usagers | Aider les demandeurs d'emploi à cibler leurs candidatures spontanées (La Bonne Boîte), simuler le coût d'une embauche, ...        |
 
-## Décision automatisée ou aide à la décision ?
+## Décision automatisée ou aide à la décision ?
 
 Certains algorithmes peuvent être utilisés pour prendre des décisions. On les distingue selon le **degré d'intervention humaine** dans cette prise de décision: 
 - Certains fonctionnent sans intervention humaine (par exemple le calcul de l'impôt des 37 millions de foyers fiscaux). On parle alors de **traitement automatisé**.
@@ -61,7 +61,7 @@ Par rapport aux algorithmes mis en oeuvre par le secteur privé, les algorithmes
 
 📍En ce sens, les algorithmes publics sont des formes de l'action publique et sont à ce titre soumis à la même forme d'exigence de redevabilité. Les administrations qui conçoivent et utilisent des algorithmes publics doivent donc "rendre des comptes" de leur utilisation auprès des individus concernés, mais aussi de la société dans son ensemble.
 
-## Comment les administrations peuvent-elles "rendre des comptes" sur l'usage des algorithmes publics ?
+## Comment les administrations peuvent-elles "rendre des comptes" sur l'usage des algorithmes publics ?
 
 Ce ne sont pas tant les algorithmes eux-mêmes que les administrations qui les mettent en oeuvre qui doivent rendre des comptes. On parle de **principe de redevabilité**. Concrètement cela signifie: 
 - **signaler**, en indiquant quand un algorithme est utilisé,
@@ -73,10 +73,10 @@ Ce ne sont pas tant les algorithmes eux-mêmes que les administrations qui les m
 
 Il faut noter que plusieurs manières de rendre des comptes (se signaler, décrire, justifier, expliquer, ...) correspondent à des **obligations légales** introduites par la loi pour une République numérique ou plus récemment le Règlement général sur la protection des données (RGPD). La troisième partie de ce document présente le cadre juridique applicable.
 
-## Comment rendre des décisions "justes" à l'aide des algorithmes ? ##
+## Comment rendre des décisions "justes" à l'aide des algorithmes ? ##
 
 La prise de décision (automatisée ou non) constitue l'un des principaux usages des algorithmes dans le secteur public - par exemple pour déterminer le droit à une aide sociale ou encore gérer la mobilité des enseignants. 
-Nous nous intéressons ici au **principe de justice**: quelles sont les conditions requises pour qu'un individu concerné par la décision la juge "juste" ? 
+Nous nous intéressons ici au **principe de justice**: quelles sont les conditions requises pour qu'un individu concerné par la décision la juge "juste" ? 
 
 Nous avons identifié dans la [littérature scientifique](https://dl.acm.org/citation.cfm?id=3173951) **quatre critères** à respecter pour qu'une décision prise à l'aide d'un algorithme soit considérée comme juste: 
 - la **transparence**: il faut que la procédure soit décrite,
@@ -90,12 +90,12 @@ Nous avons identifié dans la [littérature scientifique](https://dl.acm.org/cit
 
 La loi pour une République numérique, et plus récemment le Réglement sur la protection des données à caractère personnel (RGPD) ont introduit de nouvelles dispositions concernant les algorithmes publics. Ces dispositions visent à introduire une **plus grande transparence et** une plus grande **redevabilité** de l'administration dans l'usage de ces systèmes, en particulier quand ils sont utilisés pour prendre des décisions.
 
-## Qui est concerné par la transparence des algorithmes ?
+## Qui est concerné par la transparence des algorithmes ?
 
 Le code des relations entre le public et l'administration (CRPA) précise le périmètre des administrations et des traitements concernés.
 
 📝 **Si**: 
-- vous êtes **une administration d’Etat, une collectivité, un organisme de droit public ou de droit privé intervenant dans le cadre d’une mission de service public** [(article L.300-2)](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031367689&dateTexte=&categorieLien=cid) ,
+- vous êtes **une administration d’Etat, une collectivité, un organisme de droit public ou de droit privé intervenant dans le cadre d’une mission de service public** [(article L.300-2)](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031367689&dateTexte=&categorieLien=cid),
 - vous utilisez un **traitement algorithmique** (cf. la [définition](https://github.com/etalab/algorithmes-publics/blob/master/guide.md#1--a-quoi-servent-les-algorithmes-publics-) ci-dessus),
 - à l’aide de ce traitement, vous prenez des **décisions administratives individuelles envers des personnes physiques ou morales, de droit public ou privé nommément désignées**,
 - et que ce traitement n’est **pas couvert par l’un des secrets définis par la loi** [(2° de l'article L.311-5)](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031367708), et notamment: délibérations du Gouvernement, défense nationale, conduite de la politique extérieure, sûreté de l’Etat, sécurité publique, sécurité des personnes ou des systèmes d’information, recherche et prévention d’infractions, etc. 
@@ -104,7 +104,7 @@ Le code des relations entre le public et l'administration (CRPA) précise le pé
 
 📍On notera que les décisions administratives "individuelles" ne concernent pas uniquement des personnes physiques mais aussi **les personnes morales**. C'est à dire qu'une décision prise par une administration envers une association, une entreprise ou un autre acteur public à l'aide d'un traitement algorithmique sera aussi concernée par ces obligations. 
 
-## Quelles sont ces obligations en matière de transparence ?
+## Quelles sont ces obligations en matière de transparence ?
 
 📝Le Code des relations entre le public et l'administration définit 3 obligations: 
 1. fournir une **information générale** ([article L.312-1-3](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000033205516&dateTexte=&categorieLien=id)) 
@@ -131,7 +131,7 @@ Enfin, rappelons que l'article 39 de la loi Informatique et Libertés, qui s'app
 
 Nous vous proposons un outil sous la forme d'un quizz pour tester votre connaissance du cadre légal applicable aux algorithmes publics. Nous avons identifié **8 exemples réels d'utilisation d'algorithmes**. 
 
-🧐 Saurez-vous identifier ceux qui, parmi les 8, sont aujourd'hui concernés par les obligations de transparence des algorithmes ?
+🧐 Saurez-vous identifier ceux qui, parmi les 8, sont aujourd'hui concernés par les obligations de transparence des algorithmes ?
 
 ![Quizz algorithmes](images/Algo-quizz.png)
 
