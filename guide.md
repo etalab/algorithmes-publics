@@ -78,7 +78,7 @@ Il faut noter que plusieurs manières de rendre des comptes (se signaler, décri
 La prise de décision (automatisée ou non) constitue l'un des principaux usages des algorithmes dans le secteur public - par exemple pour déterminer le droit à une aide sociale ou encore gérer la mobilité des enseignants. 
 Nous nous intéressons ici au **principe de justice**: quelles sont les conditions requises pour qu'un individu concerné par la décision la juge "juste" ? 
 
-Nous avons identifié dans la [littérature scientifique](https://dl.acm.org/citation.cfm?id=3173951) **quatre critères** à respecter pour qu'une décision prise à l'aide d'un algorithme soit considérée comme juste: 
+Nous avons identifié dans la [littérature scientifique](https://arxiv.org/pdf/1801.10408.pdf) **quatre critères** à respecter pour qu'une décision prise à l'aide d'un algorithme soit considérée comme juste: 
 - la **transparence**: il faut que la procédure soit décrite,
 - l'**intelligibilité**: il faut que la procédure soit compréhensible par les intéressés,
 - la **loyauté**: il faut que la procédure décrite soit effectivement utilisée de manière complète et fidèle,
