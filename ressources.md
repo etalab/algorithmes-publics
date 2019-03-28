@@ -33,7 +33,7 @@ Nous vous proposons une sélection de ressources (études, articles, outils, év
 
 🇬🇧"[10 principles for public sector use of algorithmic decision making](https://www.nesta.org.uk/blog/10-principles-for-public-sector-use-of-algorithmic-decision-making/)", Eddie Copeland, Nesta, février 2018 
 
-🇬🇧"[It's Reducing a Human Being to a Percentage': Perceptions of Justice in Algorithmic Decisions](https://dl.acm.org/citation.cfm?id=3173951), Reuben Binns, Max Van Kleek, Michael Veale, Ulrik Lyngs, Jun Zhao, and Nigel Shadbolt. In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems
+🇬🇧"[It's Reducing a Human Being to a Percentage': Perceptions of Justice in Algorithmic Decisions](https://arxiv.org/pdf/1801.10408.pdf), Reuben Binns, Max Van Kleek, Michael Veale, Ulrik Lyngs, Jun Zhao, and Nigel Shadbolt. In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems
 
 🇬🇧"[Fairness and Accountability Design Needs for Algorithmic Support in High-Stakes Public Sector Decision-Making](https://dl.acm.org/citation.cfm?id=3174014)", Michael Veale, Max Van Kleek, and Reuben Binns. In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems
 
