@@ -31,6 +31,8 @@ Nous vous proposons une sélection de ressources (études, articles, outils, év
 
 🇫🇷"[Concrètement, comment rendre les algorithmes responsables et équitables ?](http://www.internetactu.net/2018/07/19/concretement-comment-rendre-les-algorithmes-responsables-et-equitables/)", Hubert Guillaud, Internet Actu, juillet 2018
 
+🇫🇷"[Quelle transparence pour les algorithmes d’apprentissage machine?](https://hal.archives-ouvertes.fr/hal-01877760/document) Maël Pégny, Issam Ibnouhsein, 2018
+
 🇬🇧"[10 principles for public sector use of algorithmic decision making](https://www.nesta.org.uk/blog/10-principles-for-public-sector-use-of-algorithmic-decision-making/)", Eddie Copeland, Nesta, février 2018 
 
 🇬🇧"[It's Reducing a Human Being to a Percentage': Perceptions of Justice in Algorithmic Decisions](https://arxiv.org/pdf/1801.10408.pdf), Reuben Binns, Max Van Kleek, Michael Veale, Ulrik Lyngs, Jun Zhao, and Nigel Shadbolt. In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems
