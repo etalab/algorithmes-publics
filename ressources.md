@@ -20,6 +20,8 @@ Nous vous proposons une sélection de ressources (études, articles, outils, év
 
 🇪🇺"[Automating societies: taking stock of automated decision-making in the EU](https://algorithmwatch.org/en/publication/automating-society-available-now/)", Algorithm Watch, janvier 2019
 
+🇪🇺"[Understanding algorithmic decision-making: Opportunities and challenges](http://www.europarl.europa.eu/stoa/en/document/EPRS_STU(2019)624261)", Future of Science and Technology Panel, Parlement européen, mars 2019
+
 🇺🇸"[Algorithmic accountability: a primer](https://datasociety.net/wp-content/uploads/2018/04/Data_Society_Algorithmic_Accountability_Primer_FINAL-4.pdf)", Data & Society, avril 2018
 
 
