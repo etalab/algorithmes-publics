@@ -9,7 +9,7 @@ Ce dépôt contient:
 
 [In english]
 
-"[With great power comes great responsability": keeping public sector algorithms accountable](https://github.com/etalab/algorithmes-publics/blob/master/20190611_WorkingPaper_PSAAccountability_Etalab.pdf)", working paper for RightsCon 2019, Tunis 
+"[With great power comes great responsibility": keeping public sector algorithms accountable](https://github.com/etalab/algorithmes-publics/blob/master/20190611_WorkingPaper_PSAAccountability_Etalab.pdf)", working paper for RightsCon 2019, Tunis 
 
 # Licence
 
