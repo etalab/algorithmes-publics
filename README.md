@@ -1,3 +1,7 @@
+Ce dépôt est archivé.
+
+Son contenu a été transféré sur [le dépôt des guides d'Etalab](https://github.com/etalab/guides.etalab.gouv.fr), auquel vous pouvez vous référer pour faire des commentaires, ouvrir des tickets ou proposer des contributions.
+
 # Les missions d'Etalab sur les algorithmes publics
 
 La mission Etalab accompagne les administrations dans la mise en oeuvre du principe de transparence des algorithmes. 
