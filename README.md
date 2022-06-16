@@ -1,6 +1,8 @@
 Ce dépôt est archivé.
 
-Son contenu a été transféré sur [le dépôt des guides d'Etalab](https://github.com/etalab/guides.etalab.gouv.fr), auquel vous pouvez vous référer pour faire des commentaires, ouvrir des tickets ou proposer des contributions.
+La plus grande partie de son contenu a été transféré sur [le dépôt des guides d'Etalab](https://github.com/etalab/guides.etalab.gouv.fr), auquel vous pouvez vous référer pour faire des commentaires, ouvrir des tickets ou proposer des contributions.
+
+Pour tenir à jour la liste des **codes sources** dont la publication contribue à l'explication d'algorithmes publics, rendez-vous sur [cette page](https://man.sr.ht/~etalab/logiciels-libres/codes-sources-algorithmes-publics.md).
 
 # Les missions d'Etalab sur les algorithmes publics
 
