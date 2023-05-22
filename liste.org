@@ -10,7 +10,7 @@ La Loi pour une République numérique pose deux principes :
 
 « Publier » un algorithme consiste à publier un document le présentant et expliquant son fonctionnement sous la forme d'un document lisible par un humain, possiblement complété par le code source implémentant l'algorithme.
 
-Pour le sujet particulier de l'ouverture des codes sources, voir [[https://github.com/etalab/ouverture-des-codes-sources-publics][cette page]].
+Pour le sujet particulier de l'ouverture des codes sources, voir [[https://code.gouv.fr][code.gouv.fr]].
 
 * Algorithmes publics aujourd'hui publiés
 
@@ -37,6 +37,6 @@ Pour le sujet particulier de l'ouverture des codes sources, voir [[https://githu
 
 Si vous êtes une administration, vous pouvez solliciter Etalab pour vous accompagner dans la publication des algorithmes et des codes sources associés que vous développez :
 
-- Pour publier un traitement algorithmique : [[mailto:simon.chignard@data.gouv.fr][Simon Chignard]]
-- Pour de l'aide sur les aspects techniques : [[mailto:marion.paclot@data.gouv.fr][Marion Paclot]]
-- Pour de l'aide sur le choix des licences : [[mailto:bastien.guerry@data.gouv.fr][Bastien Guerry]]
+- Pour publier un traitement algorithmique : [[mailto:contact@etalab.gouv.fr][Etalab]]
+- Pour de l'aide sur les aspects techniques : [[mailto:contact@etalab.gouv.fr][Etalab]]
+- Pour de l'aide sur le choix des licences : [[mailto:contact@code.gouv.fr][Mission logiciels libres]]
