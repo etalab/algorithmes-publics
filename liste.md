@@ -63,7 +63,7 @@ Pour le sujet particulier de l'ouverture des codes sources, voir [cette page](ht
 <td class="org-left">Parcours Sup</td>
 <td class="org-left"><a href="http://www.enseignementsup-recherche.gouv.fr/">MESRI</a></td>
 <td class="org-left"><a href="https://framagit.org/parcoursup/algorithmes-de-parcoursup">Framagit</a></td>
-<td class="org-left"><a href="https://framagit.org/parcoursup/algorithmes-de-parcoursup/blob/master/README.md">Framagit</a></td>
+<td class="org-left"><a href="https://framagit.org/parcoursup/algorithmes-de-parcoursup/blob/master/README.md">README</a></td>
 <td class="org-left"><a href="https://framagit.org/parcoursup/algorithmes-de-parcoursup/blob/master/LICENSE">GNU GPL v3</a></td>
 </tr>
 
@@ -72,8 +72,8 @@ Pour le sujet particulier de l'ouverture des codes sources, voir [cette page](ht
 <td class="org-left">Impôt sur le revenu</td>
 <td class="org-left"><a href="https://www.economie.gouv.fr/dgfip">DGFIP</a></td>
 <td class="org-left"><a href="https://gitlab.adullact.net/dgfip/ir-calcul">Gitlab Adullact</a></td>
+<td class="org-left"><a href="https://gitlab.adullact.net/dgfip/ir-calcul#readme-du-projet">README</a></td>
 <td class="org-left"><a href="https://github.com/DGTresor/Opale/blob/master/LICENSE">CeCILL v2.1</a></td>
-<td class="org-left">&#xa0;</td>
 </tr>
 
 
@@ -81,8 +81,8 @@ Pour le sujet particulier de l'ouverture des codes sources, voir [cette page](ht
 <td class="org-left">Taxe foncière</td>
 <td class="org-left"><a href="https://www.economie.gouv.fr/dgfip">DGFIP</a></td>
 <td class="org-left"><a href="https://gitlab.adullact.net/dgfip/taxe_fonciere">Gitlab Adullact</a></td>
+<td class="org-left"><a href="https://gitlab.adullact.net/dgfip/taxe_fonciere/-/blob/master/readme">README</a></td>
 <td class="org-left"><a href="https://gitlab.adullact.net/dgfip/taxe_fonciere/-/blob/master/LICENSE">CeCILL v2.1</a></td>
-<td class="org-left">&#xa0;</td>
 </tr>
 
 
@@ -90,8 +90,8 @@ Pour le sujet particulier de l'ouverture des codes sources, voir [cette page](ht
 <td class="org-left">Impôt sur les sociétés</td>
 <td class="org-left"><a href="https://www.economie.gouv.fr/dgfip">DGFIP</a></td>
 <td class="org-left"><a href="https://gitlab.adullact.net/dgfip/calculette-impot-societes">Gitlab Adullact</a></td>
+<td class="org-left"><a href="https://gitlab.adullact.net/dgfip/calculette-impot-societes/-/blob/master/README.md">README</a></td>
 <td class="org-left"><a href="https://gitlab.adullact.net/dgfip/calculette-impot-societes/-/blob/master/LICENSE">CeCILL v2.1</a></td>
-<td class="org-left">&#xa0;</td>
 </tr>
 
 
@@ -99,8 +99,8 @@ Pour le sujet particulier de l'ouverture des codes sources, voir [cette page](ht
 <td class="org-left">Cotisation foncière entreprise</td>
 <td class="org-left"><a href="https://www.economie.gouv.fr/dgfip">DGFIP</a></td>
 <td class="org-left"><a href="https://gitlab.adullact.net/dgfip/cotisation_fonciere_entreprises">Gitlab Adullact</a></td>
-<td class="org-left">N/A</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-left"><a href="https://gitlab.adullact.net/dgfip/cotisation_fonciere_entreprises/-/blob/master/README.md">README</a></td>
+<td class="org-left">N/A*</td>
 </tr>
 
 
@@ -108,8 +108,8 @@ Pour le sujet particulier de l'ouverture des codes sources, voir [cette page](ht
 <td class="org-left">Cotisation valeur ajoutée entreprise</td>
 <td class="org-left"><a href="https://www.economie.gouv.fr/dgfip">DGFIP</a></td>
 <td class="org-left"><a href="https://gitlab.adullact.net/dgfip/cotisation_valeur_ajoutee_entreprises">Gitlab Adullact</a></td>
+<td class="org-left"><a href="https://gitlab.adullact.net/dgfip/cotisation_valeur_ajoutee_entreprises/-/blob/master/README.md">README</a></td>
 <td class="org-left"><a href="https://gitlab.adullact.net/dgfip/cotisation_valeur_ajoutee_entreprises/-/blob/master/LICENSE">CeCILL v2.1</a></td>
-<td class="org-left">&#xa0;</td>
 </tr>
 
 
@@ -117,8 +117,8 @@ Pour le sujet particulier de l'ouverture des codes sources, voir [cette page](ht
 <td class="org-left">Imposition forfaitaire entreprise réseaux</td>
 <td class="org-left"><a href="https://www.economie.gouv.fr/dgfip">DGFIP</a></td>
 <td class="org-left"><a href="https://gitlab.adullact.net/dgfip/imposition_forfaitaire_entreprises_reseaux">Gitlab Adullact</a></td>
+<td class="org-left"><a href="https://gitlab.adullact.net/dgfip/ir-calcul#readme-du-projet">README</a></td>
 <td class="org-left"><a href="https://gitlab.adullact.net/dgfip/imposition_forfaitaire_entreprises_reseaux/-/blob/master/LICENSE">CeCILL v2.1</a></td>
-<td class="org-left">&#xa0;</td>
 </tr>
 
 
@@ -126,7 +126,7 @@ Pour le sujet particulier de l'ouverture des codes sources, voir [cette page](ht
 <td class="org-left">Mésange</td>
 <td class="org-left"><a href="https://www.tresor.economie.gouv.fr/">Trésor</a> / <a href="https://www.insee.fr">INSEE</a></td>
 <td class="org-left"><a href="https://github.com/InseeFr/Mesange">Github</a></td>
-<td class="org-left"><a href="https://github.com/InseeFr/Mesange/blob/master/README.md">Github</a></td>
+<td class="org-left"><a href="https://github.com/InseeFr/Mesange/blob/master/README.md">README</a></td>
 <td class="org-left"><a href="https://github.com/DGTresor/Opale/blob/master/LICENSE">CeCILL v2.1</a></td>
 </tr>
 
@@ -135,7 +135,7 @@ Pour le sujet particulier de l'ouverture des codes sources, voir [cette page](ht
 <td class="org-left">Opale</td>
 <td class="org-left"><a href="https://www.tresor.economie.gouv.fr/">Trésor</a></td>
 <td class="org-left"><a href="https://github.com/DGTresor/Opale">Github</a> ou <a href="https://framagit.org/DGTresor/Opale">Framagit</a></td>
-<td class="org-left"><a href="https://github.com/DGTresor/Opale/blob/master/README.md">Github</a></td>
+<td class="org-left"><a href="https://github.com/DGTresor/Opale/blob/master/README.md">README</a></td>
 <td class="org-left"><a href="https://github.com/DGTresor/Opale/blob/master/LICENSE">CeCILL v2.1</a></td>
 </tr>
 
@@ -144,7 +144,7 @@ Pour le sujet particulier de l'ouverture des codes sources, voir [cette page](ht
 <td class="org-left">Saphir</td>
 <td class="org-left"><a href="https://www.tresor.economie.gouv.fr/">Trésor</a></td>
 <td class="org-left"><a href="https://github.com/DGTresor/Saphir">Github</a> ou <a href="https://framagit.org/DGTresor/Saphir">Framagit</a></td>
-<td class="org-left"><a href="https://github.com/DGTresor/Saphir/blob/master/README.md">Github</a></td>
+<td class="org-left"><a href="https://github.com/DGTresor/Saphir/blob/master/README.md">README</a></td>
 <td class="org-left"><a href="https://github.com/DGTresor/Opale/blob/master/LICENSE">CeCILL v2.1</a></td>
 </tr>
 
@@ -162,8 +162,8 @@ Pour le sujet particulier de l'ouverture des codes sources, voir [cette page](ht
 <td class="org-left">Titre Emploi Service Entreprise</td>
 <td class="org-left"><a href="https://www.urssaf.org">URSSAF</a></td>
 <td class="org-left"><a href="https://www.urssaf.org/home/tese-code-source.html">urssaf.org</a></td>
-<td class="org-left"><a href="http://www.cecill.info/licences/Licence_CeCILL_V2.1-fr.html">CeCILL</a></td>
 <td class="org-left">&#xa0;</td>
+<td class="org-left"><a href="http://www.cecill.info/licences/Licence_CeCILL_V2.1-fr.html">CeCILL</a></td>
 </tr>
 </tbody>
 </table>
