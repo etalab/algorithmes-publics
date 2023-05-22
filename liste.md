@@ -175,7 +175,7 @@ Pour le sujet particulier de l'ouverture des codes sources, voir [code.gouv.fr](
 
 Si vous êtes une administration, vous pouvez solliciter Etalab pour vous accompagner dans la publication des algorithmes et des codes sources associés que vous développez :
 
--   Pour publier un traitement algorithmique : [Etalab](mailto:contact@etalab.gouv.fr)
--   Pour de l'aide sur les aspects techniques : [Etalab](mailto:contact@etalab.gouv.fr)
+-   Pour publier un traitement algorithmique : [Etalab](mailto:lab-ia@data.gouv.fr)
+-   Pour de l'aide sur les aspects techniques : [Etalab](mailto:lab-ia@data.gouv.fr)
 -   Pour de l'aide sur le choix des licences : [Mission logiciels libres](mailto:contact@code.gouv.fr)
 
